@@ -1,6 +1,8 @@
 # Serphouse Keyword Tracker [EN]
 This repository contains a keyword tracking project using the Serphouse API. The goal of this project is to provide a useful tool for those who need to monitor the ranking of their keywords in Google and other search engine results.
 
+![image](https://user-images.githubusercontent.com/101289506/220347611-1853b1a2-396e-42d4-aeff-92ba6de6e314.png)
+
 ## Features
 Tracking the ranking of specific keywords in search results.
 Possibility of graphical visualization of keyword ranking history using the CSV file generated with data studio.
@@ -19,10 +21,62 @@ This project is open source and contributions from anyone interested are accepte
 ## Author
 This project was created by Toni Ferrandis as part of a personal learning and development project.
 
+### Available languages:
+
+        "ar": "Arabic",
+        "bn": "Bengali",
+        "bg": "Bulgarian",
+        "ca": "Catalan",
+        "zh_CN": "Chinese (simplified)",
+        "zh_TW": "Chinese (traditional)",
+        "hr": "Croatian",
+        "cs": "Czech",
+        "da": "Danish",
+        "nl": "Dutch",
+        "fi": "Finnish",
+        "fr": "French",
+        "de": "German",
+        "el": "Greek",
+        "iw": "Hebrew",
+        "hi": "Hindi",
+        "hu": "Hungarian",
+        "is": "Icelandic",
+        "id": "Indonesian",
+        "it": "Italian",
+        "en": "English",
+        "ja": "Japanese",
+        "ko": "Korean",
+        "lv": "Latvian",
+        "lt": "Lithuanian",
+        "ms": "Malay",
+        "tl": "Filipino",
+        "et": "Estonian",
+        "no": "Norwegian",
+        "fa": "Persian",
+        "pl": "Polish",
+        "pt": "Portuguese",
+        "ro": "Romanian",
+        "ru": "Russian",
+        "sr": "Serbian",
+        "sk": "Slovak",
+        "sl": "Slovenian",
+        "es": "Spanish",
+        "sv": "Swedish",
+        "ta": "Tamil",
+        "te": "Telugu",
+        "th": "Thai",
+        "tr": "Turkish",
+        "uk": "Ukrainian",
+        "ur": "Urdu",
+        "vi": "Vietnamese"
+
 
 # Serphouse Keyword Tracker [ES]
 
 Este repositorio contiene un proyecto de seguimiento de palabras clave utilizando la API de Serphouse. El objetivo de este proyecto es proporcionar una herramienta útil para aquellos que necesitan monitorear el ranking de sus palabras clave en los resultados de búsqueda de Google y otros motores de búsqueda.
+
+![image](https://user-images.githubusercontent.com/101289506/220347773-16f8e09d-2b7c-4d69-bbb5-4779317ce1d0.png)
+
 
 ## Funcionalidades
 Seguimiento del ranking de palabras clave específicas en los resultados de búsqueda.
